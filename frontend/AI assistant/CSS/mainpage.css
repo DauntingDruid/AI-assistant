@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 1.6em;
+    background-color: #EFEEEE;
+    margin: 0; /*since browser has some default margin we use this to cover the full length of the page */
+    border: 2px solid greenyellow ;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    border: 2px solid hotpink ;
+}
+
+.navBar {
+  float: left;
+  color: #AAAAAA;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.image{
+  border-radius: 50%;
+}
+
+.userName {
+  position: relative;
+  top: -25px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.searchBar {
+
+}
+
